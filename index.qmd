@@ -5,7 +5,6 @@ format: revealjs
 
 # Hi
 
-
 # This is my second
 
 content
